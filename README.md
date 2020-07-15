@@ -168,3 +168,5 @@ Alice
   <li data-marker="*"><span class="fa-li"><i class="fas fa-circle"></i></span>The function should eliminate the candidate (or candidates) who have <code class="highlighter-rouge">min</code> number of votes.</li>
 </ul>
 
+
+
